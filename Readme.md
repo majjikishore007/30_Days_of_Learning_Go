@@ -4,3 +4,4 @@ This repository contains the my progress in the 30 Days of Learning Go challenge
 
 ## [Day 0](/Day0/): Install, [Hello,world](/Day0/)
 ## [Day 1](/Day1/): [Integers](/Day1/integers/), [Iteration](/Day1/iterations/)
+## [Day 2](/Day2/): [Arrays](/Day2/Arrays/), [Guess The Number Game](/Day2/GuessTheNumberGame/)
