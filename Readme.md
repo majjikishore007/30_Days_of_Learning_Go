@@ -8,3 +8,4 @@ This repository contains the my progress in the 30 Days of Learning Go challenge
 ## [Day 3](/Day3/): [Structs, Methods & Interfaces](/Day3/)
 ## [Day 4](/Day4/): [Writing a simple Shell in Go](/Day4/)
 ## [Day 5](/Day5/): [Pointers & errors](/Day5/)
+## [Day 6](/Day6/): [Maps](/Day6/)
