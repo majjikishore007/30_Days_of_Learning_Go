@@ -9,3 +9,4 @@ This repository contains the my progress in the 30 Days of Learning Go challenge
 ## [Day 4](/Day4/): [Writing a simple Shell in Go](/Day4/)
 ## [Day 5](/Day5/): [Pointers & errors](/Day5/)
 ## [Day 6](/Day6/): [Maps](/Day6/)
+## [Day 7](/Day7/): [Dependency Injection](/Day7/)
