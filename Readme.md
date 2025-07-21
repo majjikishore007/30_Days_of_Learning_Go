@@ -11,3 +11,5 @@ This repository contains the my progress in the 30 Days of Learning Go challenge
 ## [Day 6](/Day6/): [Maps](/Day6/)
 ## [Day 7](/Day7/): [Dependency Injection](/Day7/)
 ## [Day 8](/Day8/): [Fortune clone](/Day8/)
+## [Day 9](/Day9/): [cowsay clone](/Day9/)
+## [Day 10](/Day10/): [lolcat clone](/Day10/)
